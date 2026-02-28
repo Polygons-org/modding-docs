@@ -4,7 +4,7 @@ Polygons mods use c# scripts for modding, you don't need to compile to a dll.
 In this readme I'll go over the most basic concepts in polygons modding.
 
 ## mod.json
-Every mod needs to have a mod.json file. A mod.json needs to loom something like this:
+Every mod needs to have a mod.json file. A mod.json needs to look something like this:
 ```json
 {
   "name": "test",
