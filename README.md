@@ -19,7 +19,7 @@ If enabled is 0 then the mod wont load into the game.
 Entry is the cs file that runs automatically when the game loads the mod. You can include extra files for functions and stuff.
 
 ## Basics
-The class in your entry file HAS to be "Mod" or else it wont load
+The class in your entry file HAS to be "Mod" or else it won't load
 
 Your entry file needs to have an Init function. Example:
 
