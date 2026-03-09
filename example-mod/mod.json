@@ -1,5 +1,5 @@
 {
-  "name": "test",
+  "name": "example-mod",
   "version": "1.0.0",
   "enabled": "1",
   "entry": "main.cs"
